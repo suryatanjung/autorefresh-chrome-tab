@@ -1,2 +1,2 @@
-# autorefresh-tab
+# autorefresh-chrome-tab
 Auto Refresh Chrome Tab
